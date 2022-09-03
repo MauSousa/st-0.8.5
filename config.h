@@ -6,11 +6,13 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 // static char *font = "JetBrains Mono:pixelsize=17:antialias=true:autohint=true";
-static char *font = "JetBrains Mono:pixelsize=18:antialias=true:autohint=true";
+// static char *font = "JetBrains Mono:pixelsize=18:antialias=true:autohint=true";
+// static char *font = "Comic Mono:pixelsize=18:antialias=true:autohint=true";
 //static char *font = "Cascadia code:pixelsize=18:antialias=true:autohint=true";
 /* static char *font = "Victor Mono:pixelsize=16:antialias=true:autohint=true"; */
 /* static char *font = "Iosevka:pixelsize=16:antialias=true:autohint=true"; */
-//static char *font = "Fira code:pixelsize=18:antialias=true:autohint=true";
+// static char *font = "FiraCode Nerd Font:pixelsize=18:antialias=true:autohint=true";
+static char *font = "Fira code:pixelsize=18:antialias=true:autohint=true";
 /* static char *font2 = "JoyPixels:pixelsize=12:antialias=true:autohint=true"; */
 static char *font2[] = {
   "JoyPixels:pixelsize=14:antialias=true:autohint=true",
