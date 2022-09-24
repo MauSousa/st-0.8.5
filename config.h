@@ -12,7 +12,8 @@
 /* static char *font = "Victor Mono:pixelsize=16:antialias=true:autohint=true"; */
 /* static char *font = "Iosevka:pixelsize=16:antialias=true:autohint=true"; */
 // static char *font = "FiraCode Nerd Font:pixelsize=18:antialias=true:autohint=true";
-static char *font = "Fira code:pixelsize=18:antialias=true:autohint=true";
+static char *font = "FiraMono Nerd Font:pixelsize=16:antialias=true:autohint=true";
+// static char *font = "Fira code:pixelsize=18:antialias=true:autohint=true";
 /* static char *font2 = "JoyPixels:pixelsize=12:antialias=true:autohint=true"; */
 static char *font2[] = {
   "JoyPixels:pixelsize=14:antialias=true:autohint=true",
